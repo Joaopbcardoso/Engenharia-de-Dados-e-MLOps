@@ -1,0 +1,6 @@
+{
+    "nome_aluno": "João Pedro Benvenutti Vidal Cardoso",
+    "limpar_dados_nulos": true,
+    "tamanho_treino_porcentagem": 70,
+    "fator_qualidade_modelo": 1.2
+}

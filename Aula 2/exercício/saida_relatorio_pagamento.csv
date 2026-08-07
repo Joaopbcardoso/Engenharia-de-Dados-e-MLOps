@@ -1,0 +1,4 @@
+forma_pagamento,receita_total,itens_vendidos,ticket_medio
+BOLETO,1200.0,1.0,1200.0
+PIX,400.0,2.0,200.0
+CARTAO DE CREDITO,300.0,2.0,150.0
