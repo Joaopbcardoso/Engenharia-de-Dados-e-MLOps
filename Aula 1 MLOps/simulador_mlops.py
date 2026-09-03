@@ -1,9 +1,12 @@
 import json
 import random
 import time
+from pathlib import Path
+
+PASTA_AULA = Path(__file__).resolve().parent
 
 def carregar_configuracao():
-    with open("config.json", "r", encoding="utf-8") as f:
+    with open(PASTA_AULA / "config.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 def simular_pipeline():
@@ -69,7 +72,7 @@ def simular_pipeline():
         )
         status_dados = "Limpos"
 
-    print("📊 Modelo treinado! Acurácia obtida: {acuracia}%")
+    print(f"📊 Modelo treinado! Acurácia obtida: {acuracia}%")
 
     # ETAPA 4: MLOPS & MONITORAÇÃO
     print("\n 4. MLOPS E DEPLOY")

@@ -1,0 +1,1052 @@
+[
+  {
+    "cliente_id": 1,
+    "nome_completo": "Brenda Alves",
+    "documento_cpf_cnpj": "43815092698",
+    "regiao_estado": "PR",
+    "categoria_conta": null
+  },
+  {
+    "cliente_id": 2,
+    "nome_completo": "Arthur Borges",
+    "documento_cpf_cnpj": "390.416.875-48",
+    "regiao_estado": "DF",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 3,
+    "nome_completo": "Lara Abreu",
+    "documento_cpf_cnpj": "26591780386",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 4,
+    "nome_completo": "Aylla FogaÃ§a",
+    "documento_cpf_cnpj": "540.938.716-39",
+    "regiao_estado": "CE",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 5,
+    "nome_completo": "Laís Pires",
+    "documento_cpf_cnpj": "953.806.174-84",
+    "regiao_estado": "BA",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 6,
+    "nome_completo": "Carlos Eduardo Garcia",
+    "documento_cpf_cnpj": "47512869355",
+    "regiao_estado": "ES",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 7,
+    "nome_completo": "Dra. Ana Sophia Pereira",
+    "documento_cpf_cnpj": "28317594041",
+    "regiao_estado": "BA",
+    "categoria_conta": null
+  },
+  {
+    "cliente_id": 8,
+    "nome_completo": "Lunna Vargas",
+    "documento_cpf_cnpj": "03962857400",
+    "regiao_estado": "PA",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 9,
+    "nome_completo": "Cunha",
+    "documento_cpf_cnpj": "76912845/000115",
+    "regiao_estado": "SC",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 10,
+    "nome_completo": "Zoe da Luz",
+    "documento_cpf_cnpj": "968.215.307-77",
+    "regiao_estado": "AM",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 11,
+    "nome_completo": "Eduardo Pires",
+    "documento_cpf_cnpj": "261.384.597-09",
+    "regiao_estado": "BA",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 12,
+    "nome_completo": "Alexia Rodrigues",
+    "documento_cpf_cnpj": "184.652.097-58",
+    "regiao_estado": "GO",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 13,
+    "nome_completo": "Rafael Abreu",
+    "documento_cpf_cnpj": "482.907.153-23",
+    "regiao_estado": "SP",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 14,
+    "nome_completo": "Vitor Hugo Vasconcelos",
+    "documento_cpf_cnpj": "805.397.214-41",
+    "regiao_estado": "ES",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 15,
+    "nome_completo": "Isaque Nunes",
+    "documento_cpf_cnpj": "19760485320",
+    "regiao_estado": "PE",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 16,
+    "nome_completo": "Eloah da Luz",
+    "documento_cpf_cnpj": "86345129755",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 17,
+    "nome_completo": "Stella Machado",
+    "documento_cpf_cnpj": "138.026.954-70",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 18,
+    "nome_completo": "Brayan Santos",
+    "documento_cpf_cnpj": "03192678577",
+    "regiao_estado": "PE",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 19,
+    "nome_completo": "Vitor Hugo Cardoso",
+    "documento_cpf_cnpj": "973.685.102-86",
+    "regiao_estado": "AM",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 20,
+    "nome_completo": "Marina Fogaça",
+    "documento_cpf_cnpj": "697.850.431-93",
+    "regiao_estado": "PA",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 21,
+    "nome_completo": "Sra. Bianca da Cruz",
+    "documento_cpf_cnpj": "39718624031",
+    "regiao_estado": "SC",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 22,
+    "nome_completo": "Pedro Miguel Novaes",
+    "documento_cpf_cnpj": "10879534214",
+    "regiao_estado": "GO",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 23,
+    "nome_completo": "Murilo AraÃºjo",
+    "documento_cpf_cnpj": "260.398.514-06",
+    "regiao_estado": "MT",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 24,
+    "nome_completo": "Correia da Rocha S.A.",
+    "documento_cpf_cnpj": "08952746/000107",
+    "regiao_estado": "AM",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 25,
+    "nome_completo": "Sarah Moura",
+    "documento_cpf_cnpj": "20167849387",
+    "regiao_estado": "GO",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 26,
+    "nome_completo": "Bárbara Nunes",
+    "documento_cpf_cnpj": "301.954.278-23",
+    "regiao_estado": "MG",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 27,
+    "nome_completo": "da Costa",
+    "documento_cpf_cnpj": "46258731/000132",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 28,
+    "nome_completo": "Anthony Marques",
+    "documento_cpf_cnpj": "918.476.205-58",
+    "regiao_estado": "BA",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 29,
+    "nome_completo": "Joaquim Freitas",
+    "documento_cpf_cnpj": "427.698.051-85",
+    "regiao_estado": "PE",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 30,
+    "nome_completo": "Bella Carvalho",
+    "documento_cpf_cnpj": "418.597.260-11",
+    "regiao_estado": "SP",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 31,
+    "nome_completo": "Sra. Gabrielly Rodrigues",
+    "documento_cpf_cnpj": "487.205.319-23",
+    "regiao_estado": "PR",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 32,
+    "nome_completo": "Farias S.A.",
+    "documento_cpf_cnpj": "42795306/000121",
+    "regiao_estado": "PE",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 33,
+    "nome_completo": "Dom Nogueira",
+    "documento_cpf_cnpj": "052.319.784-50",
+    "regiao_estado": "PR",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 34,
+    "nome_completo": "Sr. Josué Rios",
+    "documento_cpf_cnpj": "15648970285",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 35,
+    "nome_completo": "Amanda Cavalcanti",
+    "documento_cpf_cnpj": "563.210.749-34",
+    "regiao_estado": "RS",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 36,
+    "nome_completo": "Guilherme Marques",
+    "documento_cpf_cnpj": "54310678262",
+    "regiao_estado": "PA",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 37,
+    "nome_completo": "JoÃ£o Lucas Ferreira",
+    "documento_cpf_cnpj": "865.092.143-42",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 38,
+    "nome_completo": "CauÃª Peixoto",
+    "documento_cpf_cnpj": "658.347.019-57",
+    "regiao_estado": "PR",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 39,
+    "nome_completo": "Aparecida",
+    "documento_cpf_cnpj": "60.327.895/0001-03",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 40,
+    "nome_completo": "Sr. Kaique Montenegro",
+    "documento_cpf_cnpj": "465.372.108-44",
+    "regiao_estado": "PA",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 41,
+    "nome_completo": "Rocha",
+    "documento_cpf_cnpj": "24.680.975/0001-76",
+    "regiao_estado": "CE",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 42,
+    "nome_completo": "Luna Martins",
+    "documento_cpf_cnpj": "793.481.062-87",
+    "regiao_estado": "BA",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 43,
+    "nome_completo": "Isaac Rocha",
+    "documento_cpf_cnpj": "438.105.679-57",
+    "regiao_estado": "AM",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 44,
+    "nome_completo": "Maria VitÃ³ria Pires",
+    "documento_cpf_cnpj": "93687142078",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 45,
+    "nome_completo": "Otávio Câmara",
+    "documento_cpf_cnpj": "287.041.653-90",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 46,
+    "nome_completo": "VitÃ³ria Novais",
+    "documento_cpf_cnpj": "95748632128",
+    "regiao_estado": "GO",
+    "categoria_conta": null
+  },
+  {
+    "cliente_id": 47,
+    "nome_completo": "Renan Machado",
+    "documento_cpf_cnpj": "43967815200",
+    "regiao_estado": "AM",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 48,
+    "nome_completo": "João Pedro da Costa",
+    "documento_cpf_cnpj": "458.901.673-75",
+    "regiao_estado": "ES",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 49,
+    "nome_completo": "Santos Cunha S/A",
+    "documento_cpf_cnpj": "69543708/000195",
+    "regiao_estado": "DF",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 50,
+    "nome_completo": "Maria Julia Vargas",
+    "documento_cpf_cnpj": "90638241731",
+    "regiao_estado": "MT",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 51,
+    "nome_completo": "Ãsis Pereira",
+    "documento_cpf_cnpj": "379.285.016-86",
+    "regiao_estado": "BA",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 52,
+    "nome_completo": "Silveira",
+    "documento_cpf_cnpj": "27.946.038/0001-08",
+    "regiao_estado": "SC",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 53,
+    "nome_completo": "Amanda Barros",
+    "documento_cpf_cnpj": "627.108.395-12",
+    "regiao_estado": "SP",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 54,
+    "nome_completo": "Duarte",
+    "documento_cpf_cnpj": "56.483.201/0001-41",
+    "regiao_estado": "PA",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 55,
+    "nome_completo": "Vitor Hugo Aragão",
+    "documento_cpf_cnpj": "53169048260",
+    "regiao_estado": "PE",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 56,
+    "nome_completo": "Eduardo da Costa",
+    "documento_cpf_cnpj": "27148395097",
+    "regiao_estado": "RS",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 57,
+    "nome_completo": "Bruna Vasconcelos",
+    "documento_cpf_cnpj": "241.809.375-14",
+    "regiao_estado": "CE",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 58,
+    "nome_completo": "Pastor e Filhos",
+    "documento_cpf_cnpj": "31.465.702/0001-74",
+    "regiao_estado": "ES",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 59,
+    "nome_completo": "Luiz Felipe Nascimento",
+    "documento_cpf_cnpj": "651.482.079-49",
+    "regiao_estado": "ES",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 60,
+    "nome_completo": "Pedro Fonseca",
+    "documento_cpf_cnpj": "726.154.839-19",
+    "regiao_estado": "RS",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 61,
+    "nome_completo": "Maya Siqueira",
+    "documento_cpf_cnpj": "94561027858",
+    "regiao_estado": "SP",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 62,
+    "nome_completo": "Maria Helena Fernandes",
+    "documento_cpf_cnpj": "075.136.248-44",
+    "regiao_estado": "PE",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 63,
+    "nome_completo": "JoÃ£o Guilherme Novais",
+    "documento_cpf_cnpj": "083.917.426-87",
+    "regiao_estado": "PA",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 64,
+    "nome_completo": "Sra. Rebeca Machado",
+    "documento_cpf_cnpj": "01483625753",
+    "regiao_estado": "SP",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 65,
+    "nome_completo": "Vitória Ferreira",
+    "documento_cpf_cnpj": "68527391473",
+    "regiao_estado": "GO",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 66,
+    "nome_completo": "Dante Silveira",
+    "documento_cpf_cnpj": "351.847.609-20",
+    "regiao_estado": "MG",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 67,
+    "nome_completo": "Vinicius Peixoto",
+    "documento_cpf_cnpj": "41328657035",
+    "regiao_estado": "MG",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 68,
+    "nome_completo": "Dra. Carolina da Mota",
+    "documento_cpf_cnpj": "094.513.876-84",
+    "regiao_estado": "RS",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 69,
+    "nome_completo": "Mendes",
+    "documento_cpf_cnpj": "75.209.364/0001-85",
+    "regiao_estado": "RS",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 70,
+    "nome_completo": "Rebeca Barbosa",
+    "documento_cpf_cnpj": "90214783588",
+    "regiao_estado": "GO",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 71,
+    "nome_completo": "Maria Vitória Pereira",
+    "documento_cpf_cnpj": "93687251012",
+    "regiao_estado": "AM",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 72,
+    "nome_completo": "Beatriz Teixeira",
+    "documento_cpf_cnpj": "39450176299",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 73,
+    "nome_completo": "Alexandre Jesus",
+    "documento_cpf_cnpj": "794.012.835-32",
+    "regiao_estado": "MT",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 74,
+    "nome_completo": "Rodrigues S.A.",
+    "documento_cpf_cnpj": "43.609.158/0001-76",
+    "regiao_estado": "GO",
+    "categoria_conta": null
+  },
+  {
+    "cliente_id": 75,
+    "nome_completo": "Barbosa Araújo S.A.",
+    "documento_cpf_cnpj": "49703251/000121",
+    "regiao_estado": "PR",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 76,
+    "nome_completo": "Ágatha Monteiro",
+    "documento_cpf_cnpj": "710.352.496-34",
+    "regiao_estado": "MT",
+    "categoria_conta": null
+  },
+  {
+    "cliente_id": 77,
+    "nome_completo": "Antônio Teixeira",
+    "documento_cpf_cnpj": "40239678150",
+    "regiao_estado": "ES",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 78,
+    "nome_completo": "Rebeca Borges",
+    "documento_cpf_cnpj": "756.290.138-40",
+    "regiao_estado": "DF",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 79,
+    "nome_completo": "Sra. Laura Ribeiro",
+    "documento_cpf_cnpj": "680.372.415-80",
+    "regiao_estado": "MT",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 80,
+    "nome_completo": "Sophie Abreu",
+    "documento_cpf_cnpj": "87601423590",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 81,
+    "nome_completo": "Melina Teixeira",
+    "documento_cpf_cnpj": "03471286535",
+    "regiao_estado": "PR",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 82,
+    "nome_completo": "Arthur Pires",
+    "documento_cpf_cnpj": "93274085600",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 83,
+    "nome_completo": "Ravi Campos",
+    "documento_cpf_cnpj": "27485931628",
+    "regiao_estado": "MT",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 84,
+    "nome_completo": "Marques Novaes S.A.",
+    "documento_cpf_cnpj": "63290781/000116",
+    "regiao_estado": "PR",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 85,
+    "nome_completo": "Abreu",
+    "documento_cpf_cnpj": "49.761.385/0001-07",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 86,
+    "nome_completo": "Dr. Rafael Duarte",
+    "documento_cpf_cnpj": "39618025721",
+    "regiao_estado": "AM",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 87,
+    "nome_completo": "Sra. Maria Isis Ribeiro",
+    "documento_cpf_cnpj": "27014598694",
+    "regiao_estado": "MT",
+    "categoria_conta": null
+  },
+  {
+    "cliente_id": 88,
+    "nome_completo": "Vinicius Marques",
+    "documento_cpf_cnpj": "026.751.948-67",
+    "regiao_estado": "GO",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 89,
+    "nome_completo": "Dr. Bruno Farias",
+    "documento_cpf_cnpj": "86579302429",
+    "regiao_estado": "SC",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 90,
+    "nome_completo": "João Pedro da Conceição",
+    "documento_cpf_cnpj": "16985034748",
+    "regiao_estado": "RS",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 91,
+    "nome_completo": "Augusto Duarte",
+    "documento_cpf_cnpj": "045.231.867-07",
+    "regiao_estado": "ES",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 92,
+    "nome_completo": "Emilly Cavalcante",
+    "documento_cpf_cnpj": "216.458.390-60",
+    "regiao_estado": "MT",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 93,
+    "nome_completo": "Ravi Porto",
+    "documento_cpf_cnpj": "479.503.286-65",
+    "regiao_estado": "PA",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 94,
+    "nome_completo": "Pedro Miguel Ferreira",
+    "documento_cpf_cnpj": "94652370199",
+    "regiao_estado": "AM",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 95,
+    "nome_completo": "Bianca da Costa",
+    "documento_cpf_cnpj": "65482031780",
+    "regiao_estado": "DF",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 96,
+    "nome_completo": "Ana Julia Pereira",
+    "documento_cpf_cnpj": "743.821.659-46",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 97,
+    "nome_completo": "Cecilia Pires",
+    "documento_cpf_cnpj": "104.638.257-80",
+    "regiao_estado": "RS",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 98,
+    "nome_completo": "Juan Duarte",
+    "documento_cpf_cnpj": "623.148.509-98",
+    "regiao_estado": "PR",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 99,
+    "nome_completo": "Laís Souza",
+    "documento_cpf_cnpj": "517.089.324-88",
+    "regiao_estado": "BA",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 100,
+    "nome_completo": "Miguel Albuquerque",
+    "documento_cpf_cnpj": "48132569709",
+    "regiao_estado": "PA",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 101,
+    "nome_completo": "Igor Melo",
+    "documento_cpf_cnpj": "085.419.327-88",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 102,
+    "nome_completo": "Maria LuÃ­sa Camargo",
+    "documento_cpf_cnpj": "20893745600",
+    "regiao_estado": "PR",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 103,
+    "nome_completo": "Mirella Freitas",
+    "documento_cpf_cnpj": "862.350.971-40",
+    "regiao_estado": "SP",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 104,
+    "nome_completo": "Arthur Gabriel Sales",
+    "documento_cpf_cnpj": "53781204979",
+    "regiao_estado": "PA",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 105,
+    "nome_completo": "Maria Alice Araújo",
+    "documento_cpf_cnpj": "643.079.128-96",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 106,
+    "nome_completo": "Lucas Gabriel da Cruz",
+    "documento_cpf_cnpj": "23164750862",
+    "regiao_estado": "SP",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 107,
+    "nome_completo": "Viana Peixoto S/A",
+    "documento_cpf_cnpj": "42.897.105/0001-35",
+    "regiao_estado": "CE",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 108,
+    "nome_completo": "Davi Lucca Albuquerque",
+    "documento_cpf_cnpj": "53901268740",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 109,
+    "nome_completo": "Bruna Souza",
+    "documento_cpf_cnpj": "178.624.093-96",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 110,
+    "nome_completo": "Ana Clara Siqueira",
+    "documento_cpf_cnpj": "847.506.312-80",
+    "regiao_estado": "SC",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 111,
+    "nome_completo": "Bianca Mendonça",
+    "documento_cpf_cnpj": "718.249.035-88",
+    "regiao_estado": "RS",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 112,
+    "nome_completo": "Lunna Garcia",
+    "documento_cpf_cnpj": "98437560292",
+    "regiao_estado": "AM",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 113,
+    "nome_completo": "Helena Lopes",
+    "documento_cpf_cnpj": "73628549000",
+    "regiao_estado": "CE",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 114,
+    "nome_completo": "Dr. Levi Rios",
+    "documento_cpf_cnpj": "45283096700",
+    "regiao_estado": "PA",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 115,
+    "nome_completo": "Aylla Souza",
+    "documento_cpf_cnpj": "52046983700",
+    "regiao_estado": "RS",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 116,
+    "nome_completo": "Maria Rios",
+    "documento_cpf_cnpj": "604.725.893-00",
+    "regiao_estado": "AM",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 117,
+    "nome_completo": "Rodrigo Câmara",
+    "documento_cpf_cnpj": "15802493615",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 118,
+    "nome_completo": "Alves",
+    "documento_cpf_cnpj": "24.896.017/0001-37",
+    "regiao_estado": "RS",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 119,
+    "nome_completo": "Maria Liz Azevedo",
+    "documento_cpf_cnpj": "20154736961",
+    "regiao_estado": "SP",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 120,
+    "nome_completo": "Sr. LÃ©o das Neves",
+    "documento_cpf_cnpj": "510.864.723-90",
+    "regiao_estado": "ES",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 121,
+    "nome_completo": "Pedro Miguel Ribeiro",
+    "documento_cpf_cnpj": "678.321.045-62",
+    "regiao_estado": "GO",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 122,
+    "nome_completo": "João Miguel Rocha",
+    "documento_cpf_cnpj": "97401368269",
+    "regiao_estado": "BA",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 123,
+    "nome_completo": "Cunha",
+    "documento_cpf_cnpj": "24.890.536/0001-98",
+    "regiao_estado": "MT",
+    "categoria_conta": null
+  },
+  {
+    "cliente_id": 124,
+    "nome_completo": "Emanuella Cardoso",
+    "documento_cpf_cnpj": "68349201703",
+    "regiao_estado": "PA",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 125,
+    "nome_completo": "Almeida",
+    "documento_cpf_cnpj": "71543692/000162",
+    "regiao_estado": "ES",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 126,
+    "nome_completo": "Maria Vitória da Rocha",
+    "documento_cpf_cnpj": "160.294.385-06",
+    "regiao_estado": "DF",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 127,
+    "nome_completo": "Pedro Henrique Caldeira",
+    "documento_cpf_cnpj": "368.409.271-13",
+    "regiao_estado": "GO",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 128,
+    "nome_completo": "Lucas Gabriel Vasconcelos",
+    "documento_cpf_cnpj": "218.467.950-01",
+    "regiao_estado": "MT",
+    "categoria_conta": null
+  },
+  {
+    "cliente_id": 129,
+    "nome_completo": "Cauã Casa Grande",
+    "documento_cpf_cnpj": "432.910.578-05",
+    "regiao_estado": "PR",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 130,
+    "nome_completo": "Melissa Rodrigues",
+    "documento_cpf_cnpj": "95813076212",
+    "regiao_estado": "PA",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 131,
+    "nome_completo": "Benjamin Fogaça",
+    "documento_cpf_cnpj": "81436079250",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 132,
+    "nome_completo": "Caleb Pimenta",
+    "documento_cpf_cnpj": "98634501701",
+    "regiao_estado": "MT",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 133,
+    "nome_completo": "Pereira",
+    "documento_cpf_cnpj": "78203695/000104",
+    "regiao_estado": "AM",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 134,
+    "nome_completo": "Thiago Ramos",
+    "documento_cpf_cnpj": "20357614925",
+    "regiao_estado": "BA",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 135,
+    "nome_completo": "Mathias Jesus",
+    "documento_cpf_cnpj": "50982631740",
+    "regiao_estado": "RS",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 136,
+    "nome_completo": "Dra. Clarice Farias",
+    "documento_cpf_cnpj": "125.873.960-77",
+    "regiao_estado": "AM",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 137,
+    "nome_completo": "Marcos Vinicius Ramos",
+    "documento_cpf_cnpj": "521.963.807-68",
+    "regiao_estado": "BA",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 138,
+    "nome_completo": "Cirino",
+    "documento_cpf_cnpj": "35716840/000130",
+    "regiao_estado": "PA",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 139,
+    "nome_completo": "Carlos Eduardo Montenegro",
+    "documento_cpf_cnpj": "890.524.163-89",
+    "regiao_estado": "BA",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 140,
+    "nome_completo": "Enrico Cirino",
+    "documento_cpf_cnpj": "92703815441",
+    "regiao_estado": "PE",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 141,
+    "nome_completo": "Sra. Isabel Nascimento",
+    "documento_cpf_cnpj": "347.612.958-64",
+    "regiao_estado": "PA",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 142,
+    "nome_completo": "Sarah Moura",
+    "documento_cpf_cnpj": "623.941.805-60",
+    "regiao_estado": "MT",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 143,
+    "nome_completo": "Sr. Valentim Campos",
+    "documento_cpf_cnpj": "412.739.850-79",
+    "regiao_estado": "MT",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 144,
+    "nome_completo": "Rael Ferreira",
+    "documento_cpf_cnpj": "069.342.187-87",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 145,
+    "nome_completo": "Câmara",
+    "documento_cpf_cnpj": "05.168.279/0001-30",
+    "regiao_estado": "SP",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 146,
+    "nome_completo": "João Pedro Melo",
+    "documento_cpf_cnpj": "27840561390",
+    "regiao_estado": "SC",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 147,
+    "nome_completo": "Yan Siqueira",
+    "documento_cpf_cnpj": "98602157312",
+    "regiao_estado": "PA",
+    "categoria_conta": "Platinum"
+  },
+  {
+    "cliente_id": 148,
+    "nome_completo": "Otto Porto",
+    "documento_cpf_cnpj": "97103462534",
+    "regiao_estado": "SP",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 149,
+    "nome_completo": "Srta. Lavínia Lima",
+    "documento_cpf_cnpj": "05347192607",
+    "regiao_estado": "DF",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 150,
+    "nome_completo": "Vinicius Nogueira",
+    "documento_cpf_cnpj": "890.367.512-68",
+    "regiao_estado": "PA",
+    "categoria_conta": "Bronze"
+  }
+]

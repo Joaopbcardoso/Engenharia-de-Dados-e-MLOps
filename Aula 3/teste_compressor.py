@@ -9,6 +9,9 @@ import pandas as pd
 import joblib
 import time
 import random
+from pathlib import Path
+
+PASTA_AULA = Path(__file__).resolve().parent
 
 # Definir as listas de variáveis e status, idênticas às do script de treinamento.
 variaveis_continuas_sensores = [
@@ -31,8 +34,8 @@ status_motor_rodando = [2, 7, 8, 9, 10, 11, 12, 13, 14]
 @st.cache_resource
 def carregar_modelos():
     try:
-        modelo_rodando = joblib.load('modelo_motor_rodando.joblib')
-        modelo_parado = joblib.load('modelo_motor_parado.joblib')
+        modelo_rodando = joblib.load(PASTA_AULA / 'modelo_motor_rodando.joblib')
+        modelo_parado = joblib.load(PASTA_AULA / 'modelo_motor_parado.joblib')
         return modelo_rodando, modelo_parado
     except FileNotFoundError:
         st.error("Erro: Modelos não encontrados! Por favor, execute o script de treinamento para gerá-los.")

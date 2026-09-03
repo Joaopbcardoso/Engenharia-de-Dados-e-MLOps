@@ -1,5 +1,11 @@
 import duckdb
 import pandas as pd
+from pathlib import Path
+
+PASTA_AULA = Path(__file__).resolve().parent.parent
+PASTA_PROJETO = PASTA_AULA.parent
+PASTA_SAIDAS = PASTA_AULA / "saidas"
+PASTA_SAIDAS.mkdir(exist_ok=True)
 
 # Este script mostra um fluxo completo de modelagem de dados:
 # 1) cria um banco operacional simples (OLTP);
@@ -8,7 +14,7 @@ import pandas as pd
 # 4) exporta tudo para Excel.
 
 # Conecta ao banco DuckDB local. O arquivo será criado automaticamente se não existir.
-con = duckdb.connect("meu_data_warehouse.duckdb")
+con = duckdb.connect(str(PASTA_PROJETO / "meu_data_warehouse.duckdb"))
 
 print("--------------------------------------------------")
 print("1. BANCO OPERACIONAL OLTP (3FN) - VERSAO EXPANDIDA")
@@ -240,7 +246,7 @@ df_dim_vendedor = con.execute("SELECT * FROM dim_vendedor").df()
 df_dim_pagamento = con.execute("SELECT * FROM dim_pagamento").df()
 df_dim_tempo = con.execute("SELECT * FROM dim_tempo").df()
 
-nome_arquivo = "data_warehouse_v2.xlsx"
+nome_arquivo = PASTA_SAIDAS / "data_warehouse_v2.xlsx"
 
 with pd.ExcelWriter(nome_arquivo, engine='openpyxl') as writer:
     df_fato.to_excel(writer, sheet_name='fato_vendas', index=False)
@@ -255,9 +261,9 @@ print(f"SUCESSO! O arquivo '{nome_arquivo}' foi gerado com 7 abas:")
 print(" - fato_vendas, dim_cliente, dim_produto, dim_vendedor, dim_pagamento, dim_tempo, relatorio_analitico")
 
 # Salva as 3 consultas tambem para uso no relatorio em PDF
-relatorio_categoria.to_csv("saida_relatorio_categoria.csv", index=False)
-relatorio_vendedor.to_csv("saida_relatorio_vendedor.csv", index=False)
-relatorio_pagamento.to_csv("saida_relatorio_pagamento.csv", index=False)
+relatorio_categoria.to_csv(PASTA_SAIDAS / "saida_relatorio_categoria.csv", index=False)
+relatorio_vendedor.to_csv(PASTA_SAIDAS / "saida_relatorio_vendedor.csv", index=False)
+relatorio_pagamento.to_csv(PASTA_SAIDAS / "saida_relatorio_pagamento.csv", index=False)
 
 con.close()
 print("\nPipeline completo executado com sucesso.")

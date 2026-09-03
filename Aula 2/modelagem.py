@@ -1,8 +1,14 @@
 import duckdb
 import pandas as pd
+from pathlib import Path
+
+PASTA_AULA = Path(__file__).resolve().parent
+PASTA_PROJETO = PASTA_AULA.parent
+PASTA_SAIDAS = PASTA_AULA / "saidas"
+PASTA_SAIDAS.mkdir(exist_ok=True)
 
 # Conectando ao DuckDB
-con = duckdb.connect("meu_data_warehouse.duckdb")
+con = duckdb.connect(str(PASTA_PROJETO / "meu_data_warehouse.duckdb"))
 
 print("--------------------------------------------------")
 print("1. SIMULANDO O BANCO OPERACIONAL OLTP (3FN)")
@@ -127,7 +133,7 @@ df_dim_produto = con.execute("SELECT * FROM dim_produto").df()
 df_dim_tempo = con.execute("SELECT * FROM dim_tempo").df()
 
 # Salvando todas em um único arquivo Excel com abas separadas
-nome_arquivo = "data_warehouse_exportado.xlsx"
+nome_arquivo = PASTA_SAIDAS / "data_warehouse_exportado.xlsx"
 
 with pd.ExcelWriter(nome_arquivo, engine='openpyxl') as writer:
     df_fato.to_excel(writer, sheet_name='fato_vendas', index=False)

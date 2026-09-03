@@ -5,7 +5,10 @@
 import pandas as pd
 import numpy as np
 import joblib
+from pathlib import Path
 from sklearn.ensemble import RandomForestClassifier
+
+PASTA_AULA = Path(__file__).resolve().parent
 
 print("Gerando modelos de IA...")
 
@@ -54,8 +57,8 @@ modelo_parado = RandomForestClassifier(n_estimators=50, random_state=42)
 modelo_parado.fit(X_parado, y_parado)
 
 # 4. Salvando os arquivos .joblib
-joblib.dump(modelo_rodando, 'modelo_motor_rodando.joblib')
-joblib.dump(modelo_parado, 'modelo_motor_parado.joblib')
+joblib.dump(modelo_rodando, PASTA_AULA / 'modelo_motor_rodando.joblib')
+joblib.dump(modelo_parado, PASTA_AULA / 'modelo_motor_parado.joblib')
 
 print(" Sucesso! Modelos gerados com sucesso na pasta:")
 print("   - modelo_motor_rodando.joblib")

@@ -1,4 +1,9 @@
 pandas
+numpy
+duckdb
+openpyxl
 joblib
 scikit-learn
 streamlit
+matplotlib
+fpdf2
